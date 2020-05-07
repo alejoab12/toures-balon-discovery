@@ -8,4 +8,4 @@ eureka:
     register-with-eureka: false
     fetch-registry: false
   instance:
-    hostname: 172.17.0.4:8761
+    hostname: 172.17.0.6:8761
