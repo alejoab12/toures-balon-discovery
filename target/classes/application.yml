@@ -7,3 +7,5 @@ eureka:
   client:
     register-with-eureka: false
     fetch-registry: false
+  instance:
+    hostname: 172.17.0.6:8761
